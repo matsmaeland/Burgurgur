@@ -1,0 +1,86 @@
+
+body {
+    background-color: #f5cbc4;
+    text-align:center;
+    line-height: 35px;
+}
+
+.flex-box{
+    display: flex-box;
+    flex-wrap: 2fr;
+}
+sup{
+    color: #8C001A;
+    font-family:Helvetica;
+    font-stretch: ultra-condensed;
+    font-size: 30px;
+}
+
+h1 {
+    color: #8C001A;
+    font-family:Helvetica;
+    font-stretch: ultra-condensed;
+    font-size: 50px
+}
+    
+    
+h2 {
+    color:#8C001A;
+    font-family:Helvetica;
+    font-stretch: ultra-condensed;
+    font-size: 40px
+}
+    
+    
+h3 {
+    color:#8C001A;
+    font-family:Helvetica;
+    font-stretch: ultra-condensed;
+    font-size: 30px
+}
+    
+p  {
+    color: black;
+    font-family: Helvetica;
+    font-stretch: ultra-condensed;
+    font-size: 20px
+}
+    
+
+dl {
+    color: black;
+    font-family: Helvetica;
+    font-stretch: ultra-condensed;
+    font-size: 30px
+}
+
+dt {
+    color:#331832;
+    font-family:Helvetica;
+    font-stretch: ultra-condensed;
+    font-size: 30px
+    
+}
+
+dd {
+    color: black;
+    font-family: Helvetica;
+    font-stretch: ultra-condensed;
+    font-size: 20px;
+    gap: 50px;
+}
+
+ul {
+    color: black;
+    font-family: Helvetica;
+    font-stretch: ultra-condensed;
+    font-size: 30px
+}
+
+li {
+    color: black;
+    font-family: Helvetica;
+    font-stretch: ultra-condensed;
+    font-size: 20px;
+    font-style: italic;
+}
